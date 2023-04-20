@@ -1,3 +1,3 @@
 # Tampilan Login dan Register
 
-<img width="766" alt="Screenshot 2022-10-19 at 19 40 22" src="https://user-images.githubusercontent.com/42389395/196776759-4006bf86-18aa-46ca-a07d-a1726c8434d0.png">
+<img width="766" alt="Screenshot" src="https://github.com/fetrusjari/ZenCorp/blob/main/zen.png?raw=true">
